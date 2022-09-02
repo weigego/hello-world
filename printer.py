@@ -5,3 +5,6 @@ else:
   print("signal not activated")
 
   print("end")
+
+  
+  print("start")
