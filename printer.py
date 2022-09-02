@@ -1,4 +1,3 @@
-signal = int(input("please input a number:"))
 signal = 1
 if signal == 1:
   print("hello world")
